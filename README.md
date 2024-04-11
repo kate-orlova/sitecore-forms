@@ -8,3 +8,4 @@ As a bare minimum you need to compose your form of the following fields and make
 
 ### Webhook
 TBC
+![Sitecore CDP webhook configuration](/assets/CDP-webhook-configuration.jpg)
