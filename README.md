@@ -7,5 +7,6 @@ As a bare minimum you need to compose your form of the following fields and make
 3.	**Email**. This is an optional property, so capture it wisely if only you plan any email comms in future, for example, when a user is subscribing to a newsletter. Use an _Email_ field with _“email”_ name.
 
 ### Webhook
-TBC
+Use the Guest REST API https://api-engage-eu.sitecorecloud.io/v2.1/guests with the basic authentication:
+
 ![Sitecore CDP webhook configuration](/assets/CDP-webhook-configuration.jpg)
