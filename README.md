@@ -1,3 +1,5 @@
+[![GitHub license](https://img.shields.io/github/license/kate-orlova/sitecore-forms.svg)](https://github.com/kate-orlova/sitecore-forms/blob/master/LICENSE)
+
 # Sitecore Forms
 ## XM Cloud Form setup
 ### Fields
