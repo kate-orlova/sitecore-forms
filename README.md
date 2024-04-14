@@ -1,6 +1,7 @@
 [![GitHub license](https://img.shields.io/github/license/kate-orlova/sitecore-forms.svg)](https://github.com/kate-orlova/sitecore-forms/blob/master/LICENSE)
 ![GitHub language count](https://img.shields.io/github/languages/count/kate-orlova/sitecore-forms.svg?style=flat)
 ![GitHub top language](https://img.shields.io/github/languages/top/kate-orlova/sitecore-forms.svg?style=flat)
+![GitHub repo size](https://img.shields.io/github/repo-size/kate-orlova/sitecore-forms.svg?style=flat)
 
 # Sitecore Forms
 ## XM Cloud Form setup
