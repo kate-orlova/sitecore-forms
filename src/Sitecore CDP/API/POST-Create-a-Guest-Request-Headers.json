@@ -1,0 +1,8 @@
+{
+  "Date": "<timestamp when the data was submitted>",
+  "X-Forwarded-For": "<the address of the end user, if available>",
+  "User-Agent": "<browser where the data was submitted from, if available>",
+  "Referer": "<request referer, if available>",
+  "X-FormId": "YOUR_FORM_ID",
+  "X-FormName": "YOUR_FORM_NAME"
+}
