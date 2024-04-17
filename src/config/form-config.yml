@@ -1,0 +1,21 @@
+fields:
+    field_guest_type:
+        name: guestType
+        type: ShortText
+        label: Guest Type
+        prefill_value: visitor
+        required: false
+        hidden: true        
+    field_name:
+        name: firstName
+        type: ShortText
+        label: Your Name
+        required: true
+        hidden: false        
+    field_email:
+        name: email
+        type: Email
+        label: Your Email
+        required: true
+        hidden: false        
+
