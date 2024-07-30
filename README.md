@@ -20,3 +20,6 @@ Create a webhook using the Guest REST API https://api-engage-eu.sitecorecloud.io
 ![Sitecore CDP webhook configuration](/assets/CDP-webhook-configuration.jpg)
 
 For credentials use your **CDP Client Key** as a _username_ and your **CDP API Token** as a _password_, both values can be found in the _Management -> API Access_ section of your CDP app.
+
+##Test Form Submission
+You can test your form submission and check your webhook in action directly in the Forms app, go to the Settings section and click on the Test webhook button:
