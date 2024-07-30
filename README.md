@@ -26,3 +26,18 @@ You can test your form submission and check your webhook in action directly in t
 ![Sitecore CDP webhook configuration](/assets/Test-webhook-action.png)
 
 It will render your form as per your configuration and let you to fill it in with your test data, so that you can validate the data submission and see the exact payload that will be sent to your webhook.
+
+The below is my payload example:
+
+https://api-engage-eu.sitecorecloud.io/v2.1/guests
+
+```
+{
+    "guestType": "visitor",
+    "firstName": "Kate",
+    "lastName": "Orlova",
+    "email": "kate.orlova+30072024@unrvld.com",
+    "test": true
+}
+```
+
