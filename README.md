@@ -40,4 +40,15 @@ https://api-engage-eu.sitecorecloud.io/v2.1/guests
     "test": true
 }
 ```
+These are the request headers that will be sent:
+```
+{
+  "Date": "<timestamp when the data was submitted>",
+  "X-Forwarded-For": "<the address of the end user, if available>",
+  "User-Agent": "<browser where the data was submitted from, if available>",
+  "Referer": "<request referrer, if available>",
+  "X-FormId": "<form id>",
+  "X-FormName": "<form name>"
+}
+```
 
