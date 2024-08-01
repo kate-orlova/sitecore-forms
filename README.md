@@ -15,7 +15,9 @@ As a bare minimum you need to compose your form of the following fields and make
 
 
 ### Webhook
-Create a webhook using the Guest REST API https://api-engage-eu.sitecorecloud.io/v2.1/guests with the basic authentication as a destination for your form submissions:
+XM Cloud Forms offer an easy way to send the submitted data to the third-party applications without capturing and storing the user data within the XM Cloud. Instead, the Forms use webhooks to send the data across the different touch points. 
+
+So, to push your form submissions to the Sitecore CDP, create a webhook using the Guest REST API https://api-engage-eu.sitecorecloud.io/v2.1/guests with the basic authentication as a destination for your form submissions:
 
 ![Sitecore CDP webhook configuration](/assets/CDP-webhook-configuration.jpg)
 
