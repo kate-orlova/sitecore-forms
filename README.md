@@ -6,6 +6,8 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/kate-orlova/sitecore-forms)
 
 # Sitecore Forms
+The Sitecore Forms project aims to accelerate your forms creation using the Sitecore XM Cloud Forms and connect them with the Sitecore CDP in two simple steps.
+
 ## XM Cloud Form setup
 ### Fields
 As a bare minimum you need to compose your form of the following fields and make sure that the input field names match with the property names defined in the API request schema:
