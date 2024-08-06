@@ -15,6 +15,7 @@ As a bare minimum you need to compose your form of the following fields and make
 2.	**Name**. This is an optional property for a _Guest_, but important while building a _Customer_ profile. Use a _Short Text_ field with a _“firstName”_ name. In addition, you can also capture a surname by creating one more _Short Text_ field with _“lastName”_ name. ![Name field configuration](/assets/Name-field.png)
 3.	**Email**. This is an optional property, so capture it wisely if only you plan any email comms in future, for example, when a user is subscribing to a newsletter. Use an _Email_ field with _“email”_ name. ![Name field configuration](/assets/Email-field.png)
 
+Of course, you can add as many fields as you wish to meet your specific requirements, there are no restrictions at all. Or, using a new and powerful “Add page” built-in functionality you can even create a multi-step form. So, Sitecore gives you the full freedom and you have the full control over your form composition including its look & feel.
 
 ### Webhook
 XM Cloud Forms offer an easy way to send the submitted data to the third-party applications without capturing and storing the user data within the XM Cloud. Instead, the Forms use webhooks to send the data across the different touch points. 
