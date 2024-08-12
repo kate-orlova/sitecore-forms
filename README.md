@@ -57,3 +57,5 @@ These are the request headers that will be sent:
 }
 ```
 
+# License
+This project is released under the MIT license what means that you can modify and use it how you want even for commercial use. Please give it a star if you like it and your experience was positive.
