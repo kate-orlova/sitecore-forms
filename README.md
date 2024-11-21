@@ -1,3 +1,5 @@
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/kate-orlova/sitecore-forms)
+[![GitHub release](https://img.shields.io/github/release-date/kate-orlova/sitecore-forms.svg?style=flat)](https://github.com/kate-orlova/sitecore-forms/releases/tag/v1.0)
 [![GitHub license](https://img.shields.io/github/license/kate-orlova/sitecore-forms.svg)](https://github.com/kate-orlova/sitecore-forms/blob/master/LICENSE)
 ![GitHub language count](https://img.shields.io/github/languages/count/kate-orlova/sitecore-forms.svg?style=flat)
 ![GitHub top language](https://img.shields.io/github/languages/top/kate-orlova/sitecore-forms.svg?style=flat)
